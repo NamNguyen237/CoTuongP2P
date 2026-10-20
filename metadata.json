@@ -1,0 +1,6 @@
+{
+  "name": "Cờ Tướng P2P Siêu Tốc - Xiangqi Coop",
+  "description": "Web game Cờ Tướng chơi trực tuyến theo mã phòng với kết nối WebRTC Peer-to-Peer trực tiếp tối ưu ping cực thấp, hỗ trợ 1v1, Co-op đồng đội và vẽ mũi tên chiến thuật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
